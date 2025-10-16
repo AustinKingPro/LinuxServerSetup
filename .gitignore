@@ -1,0 +1,8 @@
+# Ignore system files
+*.pyc
+__pycache__/
+.DS_Store
+
+# Ignore secret files
+*.pem
+*.key
