@@ -154,7 +154,3 @@ I’ve documented this Linux Server Setup lab with **step-by-step screenshots** 
 - Step-by-step photos of key setup stages  
 - Video walkthrough (5–10 minutes) showing Hyper-V setup, SSH login, Apache installation, and firewall configuration  
 - Optional notes and commands used  
-
-[> Replace `YOUR_DRIVE_FOLDER_ID` with the actual Google Drive folder ID.  
-](https://drive.google.com/drive/folders/13ADmQdgiRtwsOmF2HAHmPwXqTaYRo_8g?usp=drive_link)
-You can click the link to preview screenshots or download the video for reference.
