@@ -119,23 +119,6 @@ chmod +x setup.sh
 sudo ./setup.sh
 ```
 
----
-
-## Repository Layout
-
-```
-LinuxServerSetup/
-├── scripts/
-│   └── setup.sh
-├── screenshots/
-│   ├── 01_ssh_login.png
-│   ├── 02_apache_page.png
-│   └── 03_ufw_status.png
-└── README.md
-```
-
----
-
 ## Outcome
 - Linux server ready with **secure SSH access**
 - User management configured
